@@ -1,0 +1,89 @@
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\bin\Debug\StadiumProject.exe.config
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\bin\Debug\StadiumProject.exe
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\bin\Debug\StadiumProject.pdb
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\obj\Debug\StadiumProject.csprojAssemblyReference.cache
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\obj\Debug\StadiumProject.MainForm.resources
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Home.resources
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Properties.Resources.resources
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\obj\Debug\StadiumProject.csproj.GenerateResource.cache
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\obj\Debug\StadiumProject.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\obj\Debug\StadiumProject.exe
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\obj\Debug\StadiumProject.pdb
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Employee.resources
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Services.resources
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\bin\Debug\Guna.UI2.dll
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\obj\Debug\StadiumProject.csproj.CopyComplete
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\obj\Debug\StadiumProject.AddService.resources
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\obj\Debug\StadiumProject.AddStaff.resources
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Invoices.resources
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\obj\Debug\StadiumProject.MainBooking.resources
+C:\Users\asus\Documents\Visual Studio 2019\StadiumProject\StadiumProject\obj\Debug\StadiumProject.official_booking.resources
+F:\fatoom\StadiumProject\StadiumProject\bin\Debug\StadiumProject.exe.config
+F:\fatoom\StadiumProject\StadiumProject\bin\Debug\StadiumProject.exe
+F:\fatoom\StadiumProject\StadiumProject\bin\Debug\StadiumProject.pdb
+F:\fatoom\StadiumProject\StadiumProject\bin\Debug\Guna.UI2.dll
+F:\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.csprojAssemblyReference.cache
+F:\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.AddService.resources
+F:\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.AddStaff.resources
+F:\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Employee.resources
+F:\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.MainForm.resources
+F:\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Home.resources
+F:\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.hourControl2.resources
+F:\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Invoices.resources
+F:\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.MainBooking.resources
+F:\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.official_booking.resources
+F:\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Properties.Resources.resources
+F:\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Services.resources
+F:\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.UserControlBlank.resources
+F:\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.UserControlDays.resources
+F:\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.csproj.GenerateResource.cache
+F:\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.csproj.CoreCompileInputs.cache
+F:\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.csproj.CopyComplete
+F:\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.exe
+F:\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.pdb
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\bin\Debug\StadiumProject.exe.config
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\bin\Debug\StadiumProject.exe
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\bin\Debug\StadiumProject.pdb
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\bin\Debug\Guna.UI2.dll
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.csprojAssemblyReference.cache
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.AddService.resources
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.AddStaff.resources
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Employee.resources
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.MainForm.resources
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Home.resources
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.hourControl2.resources
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Invoices.resources
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.MainBooking.resources
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.official_booking.resources
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Properties.Resources.resources
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Services.resources
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.UserControlBlank.resources
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.UserControlDays.resources
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.csproj.GenerateResource.cache
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.csproj.CoreCompileInputs.cache
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.csproj.CopyComplete
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.exe
+D:\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.pdb
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\bin\Debug\StadiumProject.exe.config
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\bin\Debug\StadiumProject.exe
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\bin\Debug\StadiumProject.pdb
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\bin\Debug\Guna.UI2.dll
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.csprojAssemblyReference.cache
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.AddService.resources
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.AddStaff.resources
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Employee.resources
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.MainForm.resources
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Home.resources
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.hourControl2.resources
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Invoices.resources
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.MainBooking.resources
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.official_booking.resources
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Properties.Resources.resources
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.Services.resources
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.UserControlBlank.resources
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.UserControlDays.resources
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.csproj.GenerateResource.cache
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.csproj.CoreCompileInputs.cache
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.csproj.CopyComplete
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.exe
+D:\مستوى ثالث\winform project\lastDependent\fatoom\StadiumProject\StadiumProject\obj\Debug\StadiumProject.pdb
